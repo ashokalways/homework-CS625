@@ -8,7 +8,7 @@ Due: September 6, 2023
 *What is the URL of the GitHub repo that you created in your personal account?*
    https://github.com/ashokalways/homework-CS625.git
 *In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
-   
+   <h1> remote changes to local </h1>
 *If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?*
 
 ## Markdown
