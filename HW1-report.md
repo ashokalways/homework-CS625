@@ -59,3 +59,4 @@ Due: September 6, 2023
 
 * Reference 1, <https://www.example.com>
 * Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
+<img src="myphoto.jpg" alt="My photo">
