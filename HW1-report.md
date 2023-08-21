@@ -1,12 +1,12 @@
 # HW 1 - CS 625, Fall 2023
 
-INSERT YOUR NAME HERE  
+Insert Your Name Here  
 Due: September 6, 2023
 
 ## Git, GitHub
 
-*What is the URL of the GitHub repo that you created?*
-   
+*What is the URL of the GitHub repo that you created in your personal account?*
+   https://github.com/ashokalways/homework-CS625.git
 *In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
    
 *If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?*
@@ -23,7 +23,7 @@ Due: September 6, 2023
 
 ## Tableau
 
-*Insert your the image of your final bar chart here*
+*Insert your the image of your final bar chart here. Reminder, this should show data from a region other than the South.*
 
 ## Google Colab
 
@@ -35,11 +35,11 @@ Due: September 6, 2023
 
 *Describe what the figure is showing.*
 
-*Remove the outer parenthesis from the code above and run the cell.  What happened?*
-
 *Insert the second penguin chart here*
 
 *Describe what the figure is showing.*
+
+*What happened when you removed the outer parentheses from the code? Why?*
 
 ## Observable and Vega-Lite
 
