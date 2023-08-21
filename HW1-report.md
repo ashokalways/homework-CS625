@@ -62,3 +62,13 @@ Due: September 6, 2023
 <img src="myphoto.jpg" alt="My photo">
 
 To create a <b>heading, add one </b> to six # symbols before your <b><i>heading text</i></b>. The number of # you use will determine the hierarchy <i>level and typeface</i> size of the heading.
+
+<code> # Python3 program to add two numbers
+num1 = 15
+num2 = 12
+ 
+# Adding two nos
+sum = num1 + num2
+ 
+# printing values
+print("Sum of", num1, "and", num2 , "is", sum) </code>
