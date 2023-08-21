@@ -60,3 +60,5 @@ Due: September 6, 2023
 * Reference 1, <https://www.example.com>
 * Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
 <img src="myphoto.jpg" alt="My photo">
+
+To create a <b>heading, add one </b> to six # symbols before your <b><i>heading text</i></b>. The number of # you use will determine the hierarchy <i>level and typeface</i> size of the heading.
